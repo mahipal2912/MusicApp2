@@ -11,5 +11,6 @@ interface ApiMusicInterface {
 
 
    @GET("search")
-   suspend fun getData(@Query("q")query:String): Response<MusicData>
+   suspend fun getData(@Query("q") query:String): Response<MusicData>
+
 }
