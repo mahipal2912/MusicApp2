@@ -1,4 +1,4 @@
-# Android Music App with Media Manager and Retrofit
+# Kotlin Music App with Media Manager and Retrofit
 
 This Android Music App is designed to allow users to stream and manage their music collection using the Media Manager library and Retrofit for networking.
 
